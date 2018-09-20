@@ -88,6 +88,11 @@ export const FLASH_MEDIA_ERROR = 214000;
 /**
  * @enum {ErrorKey}
  */
+export const ERROR_LOADING_CAPTIONS = 306000;
+
+/**
+ * @enum {ErrorKey}
+ */
 export const MSG_CANT_PLAY_VIDEO = 'cantPlayVideo';
 
 /**
